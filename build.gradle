@@ -6,8 +6,7 @@ buildscript {
         google()
         jcenter()
         maven {
-
-            url uri("D:\\workTime\\AS_Project\\PluginDemo\\pluginlib\\repo")
+            url uri("./pluginlib/repo")
         }
     }
     dependencies {

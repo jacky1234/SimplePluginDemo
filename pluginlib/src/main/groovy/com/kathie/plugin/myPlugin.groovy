@@ -18,6 +18,7 @@ class myPlugin implements Plugin<Project>{
         println "-----------this is kethie plugin!----------"
         println "-----------this is kethie plugin!----------"
         println "-----------this is kethie plugin!----------"
+        println "-----------hello world!----------"
 
 
     }
